@@ -1,10 +1,10 @@
-# REPORT.md — Tugas 1: Personal Website "Blossom"
+# REPORT.md — Personal Website "Blossom"
 
 ---
 
 ## 1. Deskripsi Proyek
 
-**Blossom** adalah website profil personal milik **Raisya Salma**, mahasiswa Teknik Informatika di Universitas Muhammadiyah Surakarta. Website ini dibuat sebagai tugas pertama mata kuliah pemrograman web dengan tujuan menampilkan identitas diri, portofolio proyek, dan formulir kontak.
+**Blossom** adalah website profil personal milik **Raisya Salma**, mahasiswa Teknik Informatika di Universitas Muhammadiyah Surakarta. Website ini dibuat sebagai Mata kuliah pemrograman web dengan tujuan menampilkan identitas diri, portofolio proyek, dan formulir kontak.
 
 ### Tujuan
 Menampilkan profil diri secara digital dengan desain yang estetis, responsif, dan aksesibel — sekaligus menjadi media untuk menunjukkan kemampuan di bidang desain dan pengembangan web.
@@ -132,26 +132,6 @@ Diimplementasikan dengan `data-theme="dark"` pada elemen `<html>`, overriding se
 
 ---
 
-## 6. Validasi Kode
-
-### HTML Validator
-Validasi dilakukan di https://validator.w3.org/ untuk ketiga halaman:
-
-| Halaman | Hasil |
-|---------|-------|
-| `index.html` | ✅ ![alt text](image-2.png)
-| `portfolio.html` | ✅ ![alt text](image.png)
-| `contact.html` | ✅ ![alt text](image-1.png)
-
-### CSS Validator
-Validasi dilakukan di https://jigsaw.w3.org/css-validator/ untuk `main.css`:
-
-| File | Hasil |
-|------|-------|
-| `main.css` | ✅ ![alt text](image-3.png)
-
----
-
 ## 7. Deployment
 
 | Platform | Status |
@@ -167,15 +147,6 @@ Buka netlify.com → Login
 6. Tunggu sebentar , website akan aktif di `https://raisyawebprofile.netlify.app/`
 
 ---
-
-## 8. Screenshot Konfigurasi SSH
-
-> *[ ![alt text](image-4.png) ]*
-
-output setelah SSH dikonfigurasi:
-```
-Hi raisya277! You've successfully authenticated, but GitHub does not provide shell access.
-```
 
 ---
 
